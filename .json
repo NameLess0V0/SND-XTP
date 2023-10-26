@@ -1,0 +1,274 @@
+{
+  "$type": "SomethingNeedDoing.SomethingNeedDoingConfiguration, SomethingNeedDoing",
+  "Version": 1,
+  "RootFolder": {
+    "$type": "SomethingNeedDoing.FolderNode, SomethingNeedDoing",
+    "Name": "总菜单",
+    "Children": [
+      {
+        "$type": "SomethingNeedDoing.FolderNode, SomethingNeedDoing",
+        "Name": "超时空矿车",
+        "Children": [
+          {
+            "$type": "SomethingNeedDoing.FolderNode, SomethingNeedDoing",
+            "Name": "海洋篇",
+            "Children": [
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "左上海底",
+                "Contents": "/stp 45.498386 -42.408463 -678.54517 1055<wait.4>\n/stp 46.59781 -42.42611 -685.769 1055<wait.4>\n/stp 53.135925 -45.437477 -709.83026 1055<wait.4>\n/stp 40.602436 -45.635777 -705.73566 1055<wait.4>\n/stp 22.678423 -47.91753 -717.3209 1055<wait.4>\n/stp -7.4734926 -46.06581 -717.1187 1055<wait.4>\n/stp -127.943565 -46.87568 -724.5253 1055<wait.4>\n/stp -131.92769 -47.84193 -720.7043 1055<wait.4>\n/stp -136.834 -47.37196 -709.2686 1055<wait.4>\n/stp -207.61143 -41.189625 -700.01416 1055<wait.4>\n/stp -147.14566 -45.630352 -682.9511 1055<wait.4>\n/stp -25.082844 -42.46626 -699.5855 1055<wait.4>\n/stp -14.663886 -43.789726 -694.72516 1055<wait.4>\n/stp -3.4360592 -44.61712 -682.64465 1055<wait.4>\n/stp 20.465042 -44.023914 -664.63495 1055<wait.4>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "右下球藻",
+                "Contents": "/stp 719.1454 -43.283096 134.28967 1055<wait.4>\n/stp 740.8773 -44.64726 124.57878 1055<wait.4>\n/stp 733.057 -50.32279 76.408875 1055<wait.4>\n/stp 732.9505 -51.043564 60.465637 1055<wait.4>\n/stp 758.20807 -54.432762 0.33581257 1055<wait.4>\n/stp 748.7539 -54.39398 -37.562523 1055<wait.4>\n/stp 708.3924 -47.099094 -27.307974 1055<wait.4>\n/stp 723.7354 -45.56028 -25.67716 1055<wait.4>\n/stp 711.6614 -47.46284 -3.9768672 1055<wait.4>\n/stp 700.1526 -43.57732 84.45516 1055<wait.4>\n/stp 715.4261 -45.47743 104.028366 1055<wait.4>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "右下珊瑚",
+                "Contents": "/stp 726.5031 -45.38647 113.22473 1055<wait.4>\n/stp 715.1884 -45.45777 103.57226 1055<wait.4>\n/stp 700.002 -43.536472 84.288246 1055<wait.4>\n/stp 711.21045 -32.982613 44.64872 1055<wait.4>\n/stp 704.66876 -32.216267 43.391445 1055<wait.4>\n/stp 726.0919 -48.65109 38.613945 1055<wait.4>\n/stp 711.7225 -47.37746 -2.7993472 1055<wait.4>\n/stp 706.9398 -47.463013 -27.06531 1055<wait.4>\n/stp 724.2931 -46.49704 -25.723904 1055<wait.4>\n/stp 745.8084 -51.362244 13.324802 1055<wait.4>\n/stp 733.16876 -51.090984 60.46031 1055<wait.4>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              }
+            ]
+          },
+          {
+            "$type": "SomethingNeedDoing.FolderNode, SomethingNeedDoing",
+            "Name": "种子篇",
+            "Children": [
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "南瓜甘蓝",
+                "Contents": "/stp -114.38919 98.12448 -217.14832 1055<wait.3>\n/stp -23.831839 71.520035 -207.65085 1055<wait.3>\n/stp -25.795609 71.06631 -202.79752 1055<wait.3>\n/stp -24.778671 70.79614 -200.46327 1055<wait.3>\n/stp -24.804237 70.52504 -193.89523 1055<wait.3>\n/stp -21.013868 70.946754 -188.018 1055<wait.3>\n/stp 27.181597 72.3436 105.63984 1055<wait.3>\n/stp 31.118635 72.77565 107.804375 1055<wait.3>\n/stp 37.032516 73.06458 109.31348 1055<wait.3>\n/stp 36.148224 72.57352 106.106415 1055<wait.3>\n/stp 41.279346 72.49543 105.282814 1055<wait.3>\n/stp 73.540215 71.19845 103.20534 1055<wait.3>\n/stp 77.082344 70.79136 101.45634 1055<wait.3>\n/stp 84.76729 68.9761 93.38942 1055<wait.3>\n/stp 90.245186 69.60308 98.792404 1055<wait.3>\n/stp 102.80682 67.39558 93.75348 1055<wait.3>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "甘蓝甘蔗",
+                "Contents": "/stp -112.37603 98.01457 -216.50471 1055<wait.4>\n/stp -24.064144 71.56626 -208.04364 1055<wait.4>\n/stp -25.87443 71.3261 -204.44638 1055<wait.4>\n/stp -24.960382 70.79787 -200.51147 1055<wait.4>\n/stp -24.22161 70.470505 -194.44774 1055<wait.4>\n/stp -22.67527 71.16639 -190.0154 1055<wait.4>\n/stp -35.43595 64.45512 -316.0131 1055<wait.4>\n/stp -30.38944 63.279545 -320.15063 1055<wait.4>\n/stp -34.42994 63.581314 -330.46085 1055<wait.4>\n/stp -31.46419 61.49306 -337.69708 1055<wait.4>\n/stp 2.1018975 62.75037 -314.26358 1055<wait.4>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "南瓜种子",
+                "Contents": "/stp 27.321857 72.237015 104.938995 1055<wait.4>\n/stp 30.710295 72.7286 107.56557 1055<wait.4>\n/stp 37.064217 72.96778 108.68023 1055<wait.4>\n/stp 36.225174 72.58968 106.20783 1055<wait.4>\n/stp 39.730022 72.40635 104.600075 1055<wait.4>\n/stp 72.524574 71.27321 103.49403 1055<wait.4>\n/stp 76.07793 70.73893 101.10089 1055<wait.4>\n/stp 84.87378 68.98208 93.465965 1055<wait.4>\n/stp 90.84348 69.51445 98.59033 1055<wait.4>\n/stp 102.26071 67.64699 94.70823 1055<wait.4>\n/stp 92.44856 65.21051 77.57983 1055<wait.4>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "新薯种子",
+                "Contents": "/stp -236.79826 32.888706 -604.5724 1055<wait.3>\n/stp  -253.3118 30.406658 -617.2773 1055<wait.3>\n/stp  -237.80415 28.788149 -635.67914 1055<wait.3>\n/stp  -263.93088 31.510084 -592.82733 1055<wait.3>\n/stp  -247.84216 33.03152 -593.4112 1055<wait.3>\n/stp  -240.33151 33.81209 -581.3787 1055<wait.3>\n/stp  -252.13554 34.57787 -557.61847 1055<wait.3>\n/stp  348.69214 56.728077 134.43088 1055<wait.3>\n/stp  392.00192 50.02221 89.22861 1055<wait.3>\n/stp  330.62262 66.23422 81.03171 1055<wait.3>\n/stp  381.8739 62.624756 20.71664 1055<wait.3>\n/stp  396.9654 55.04592 52.909603 1055<wait.3>\n/stp  347.80963 56.17694 98.97028  1055<wait.3>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "萝卜种子",
+                "Contents": "/stp 421.65952 56.86045 -32.057083 1055<wait.3>\n/stp 419.32855 56.4468 6.8202925 1055<wait.3>\n/stp 449.55798 37.930096 9.361667 1055<wait.3>\n/stp 439.09958 36.254345 -28.467003 1055<wait.3>\n/stp 477.03403 34.298847 -40.94711 1055<wait.3>\n/stp 489.96518 33.380455 -44.40436 1055<wait.3>\n/stp 503.81992 28.379858 -62.253223 1055<wait.3>\n/stp 246.75616 83.41381 -30.42848 1055<wait.3>\n/stp 229.01335 107.596924 -112.07085 1055<wait.3>\n/stp 186.84288 86.063896 -42.113564 1055<wait.3>\n/stp -228.1407 50.087704 -434.95395 1055<wait.3>\n/stp -256.08786 47.987877 -459.51486 1055<wait.3>\n/stp -246.86105 49.227024 -470.4814 1055<wait.3>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 2,
+                "IsLua": false
+              }
+            ]
+          },
+          {
+            "$type": "SomethingNeedDoing.FolderNode, SomethingNeedDoing",
+            "Name": "矿物篇",
+            "Children": [
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "石英",
+                "Contents": "/stp 359.77023 395.0461 -405.27686 1055<wait.4>\n/stp 357.43848 395.17807 -409.1201 1055<wait.4>\n/stp 350.34396 394.46628 -405.63983 1055<wait.4>\n/stp 342.5404 394.99594 -407.5817 1055<wait.4>\n/stp 353.71515 394.2163 -400.3768 1055<wait.4>\n/stp 356.3903 393.58194 -395.94913 1055<wait.4>\n/stp 213.84172 190.5 -385.20233 1055<wait.4>\n/stp 215.58905 190.5 -388.90814 1055<wait.4>\n/stp 214.71849 190.5 -392.1157 1055<wait.4>\n/stp 212.3012 190.5 -392.82495 1055<wait.4>\n/stp 434.7613 181.28949 -256.18356 1055<wait.4>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "花岗",
+                "Contents": "/stp 709.4362 5.7387486 -579.7721 1055<wait.4>\n/stp 693.5032 4.9999924 -645.8207 1055<wait.4>\n/stp 672.06287 5.3363276 -654.86487 1055<wait.4>\n/stp 656.2985 9.1448765 -614.71765 1055<wait.4>\n/stp 623.8532 10.370783 -646.8765 1055<wait.4>\n/stp 595.63416 8.972495 -669.4415 1055<wait.4>\n/stp 573.0781 7.122178 -688.88544 1055<wait.4>\n/stp 561.06757 5.348822 -729.73645 1055<wait.4>\n/stp 473.74728 6.4618807 -707.8539 1055<wait.4>\n/stp 418.1346 10.97607 -704.7102 1055<wait.4>\n/stp 291.00064 151.17236 -222.94563 1055<wait.4>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "石灰",
+                "Contents": "/stp -57.80786 84.27077 -0.64764047 1055<wait.4>\n/stp -31.849745 73.33961 4.2810287 1055<wait.4>\n/stp -21.26991 71.864716 -16.76917 1055<wait.4>\n/stp 22.46525 65.58325 -63.42656 1055<wait.4>\n/stp 20.729753 66.19558 -73.128365 1055<wait.4>\n/stp 25.3807 64.08403 -75.71096 1055<wait.4>\n/stp 16.396616 66.461716 -76.22096 1055<wait.4>\n/stp 20.843073 64.396095 -85.546486 1055<wait.4>\n/stp 20.204268 64.75609 -90.74643 1055<wait.4>\n/stp 10.469839 63.483418 -104.1092 1055<wait.4>\n/stp 219.52304 57.298122 84.370415 1055<wait.4>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "铁矿",
+                "Contents": "/stp 399.38733 165.12912 -229.10938 1055<wait.4>\n/stp 402.2093 164.79308 -227.6239 1055<wait.4>\n/stp 400.6955 164.84303 -225.95435 1055<wait.4>\n/stp 434.28003 145.89651 -210.70764 1055<wait.4>\n/stp 471.36978 145.57513 -227.73822 1055<wait.4>\n/stp 459.44788 181.51721 -246.6456 1055<wait.4>\n/stp 451.94012 181.16002 -258.0262 1055<wait.4>\n/stp 422.22708 181.03833 -244.43497 1055<wait.4>\n/stp 324.76843 159.60823 -234.2991 1055<wait.4>\n/stp 545.029 124.21203 -231.74176 1055<wait.4>\n/stp 557.59 127.95243 -275.24963 1055<wait.4>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "铜矿",
+                "Contents": "/stp 601.521 37.321075 222.6229 1055<wait.4>\n/stp 642.04584 23.607573 219.29214 1055<wait.4>\n/stp 625.54266 11.048094 260.00757 1055<wait.4>\n/stp 663.2934 9.951474 255.08263 1055<wait.4>\n/stp 690.05457 10.270695 209.51689 1055<wait.4>\n/stp 672.26825 10.521861 203.69873 1055<wait.4>\n/stp 677.61523 9.919207 182.5742 1055<wait.4>\n/stp 560.1159 20.659441 172.50456 1055<wait.4>\n/stp -50.422413 55.13031 -388.30936 1055<wait.4>\n/stp -18.348423 54.147892 -388.7822 1055<wait.4>\n/stp -30.166737 48.04948 -427.95966 1055<wait.4>\n/stp -27.465487 46.611835 -437.93497 1055<wait.4>\n/stp -24.50149 39.87457 -448.76788 1055<wait.4>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "黏土",
+                "Contents": "/stp 246.95737 57.092445 90.20192 1055<wait.3>\n/stp 245.04431 57.67811 92.38902 1055<wait.3>\n/stp 239.69333 57.2192 87.12821 1055<wait.3>\n/stp 235.83107 58.454285 89.514854 1055<wait.3>\n/stp 232.37596 58.08799 88.534485 1055<wait.3>\n/stp 222.77481 58.628765 87.09394 1055<wait.3>\n/stp 5.0146756 55.91827 -277.62634 1055<wait.3>\n/stp 3.079249 56.322803 -280.91492 1055<wait.3>\n/stp 571.99695 4.8447385 -19.479689 1055<wait.3>\n/stp 568.951 4.5767508 61.55309 1055<wait.3>\n/stp 538.217 19.94727 162.72145 1055<wait.3>\n/stp 240.78862 58.20614 90.840614 1055<wait.3>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "石炭",
+                "Contents": "/stp 421.86594 99.323875 -253.48975 1055<wait.3>\n/stp 420.29007 99.03947 -273.0031 1055<wait.3>\n/stp 406.0175 98.47727 -298.96976 1055<wait.3>\n/stp 470.29245 95.85087 -358.44247 1055<wait.3>\n/stp 473.06348 95.61628 -386.2069 1055<wait.3>\n/stp 438.13913 94.85873 -367.30566 1055<wait.3>\n/stp 425.41406 93.952286 -409.2684 1055<wait.3>\n/stp 466.0408 95.914696 -431.79028 1055<wait.3>\n/stp 526.0514 93.7 -402.72873 1055<wait.3>\n/stp 387.981 97.96905 -273.50436 1055<wait.3>\n/stp 387.44614 97.0 -246.96843 1055<wait.3>\n/stp 396.98706 97.0 -227.8629 1055<wait.3>\n/stp 399.97852 97.0 -222.1585 1055<wait.3>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "幻影",
+                "Contents": "/stp 315.3913 75.49999 -259.75748 1055<wait.3>\n/stp 335.81003 75.5 -279.43246 1055<wait.3>\n/stp 328.36438 75.5 -284.65152 1055<wait.3>\n/stp 313.5277 75.81217 -288.51804 1055<wait.3>\n/stp 316.83228 75.8326 -297.55222 1055<wait.3>\n/stp 311.53986 75.49999 -314.22745 1055<wait.3>\n/stp 308.6844 75.5 -316.43802 1055<wait.3>\n/stp 296.35953 75.5 -320.0222 1055<wait.3>\n/stp 289.61703 75.5 -285.1233 1055<wait.3>\n/stp 295.9466 75.93297 -248.66129 1055<wait.3>\n/stp 290.47916 75.5 -246.12227 1055<wait.3>\n/stp 293.93573 75.76829 -294.9471 1055<wait.3>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "岩盐",
+                "Contents": "/stp 683.47394 1.3344638 -154.9079 1055<wait.3>\n/stp 680.92975 1.5142787 -156.78535 1055<wait.3>\n/stp 676.8404 0.47665334 -157.77231 1055<wait.3>\n/stp 680.59296 1.6005561 -160.87155 1055<wait.3>\n/stp 682.89386 1.7820556 -161.91055 1055<wait.3>\n/stp 683.90607 1.8985677 -165.06448 1055<wait.3>\n/stp 67.023735 3.992182 -608.94403 1055<wait.3>\n/stp 68.42604 4.1699686 -603.91583 1055<wait.3>\n/stp 65.41853 4.260402 -598.8249 1055<wait.3>\n/stp 61.084167 4.0041375 -599.77985 1055<wait.3>\n/stp 670.4104 5.1554785 -655.9507 1055<wait.3>\n/stp 693.4076 5.7380023 -647.1513 1055<wait.3>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "锡砂",
+                "Contents": "/stp -7.9540763 54.026367 -321.7353 1055<wait.3>\n/stp -21.223232 54.609516 -279.61948 1055<wait.3>\n/stp 3.4021835 60.05226 -198.84007 1055<wait.3>\n/stp 5.7808156 60.839375 -191.6745 1055<wait.3>\n/stp -1.4735633 59.999996 -167.8624 1055<wait.3>\n/stp 8.304388 60.20904 -152.48076 1055<wait.3>\n/stp 5.719816 60.47229 -125.50825 1055<wait.3>\n/stp 8.435987 61.196213 -116.385735 1055<wait.3>\n/stp 30.954273 63.277134 -91.15752 1055<wait.3>\n/stp 1.5065652 1.1969864 -551.14246 1055<wait.3>\n/stp -10.081264 22.0226 -493.76907 1055<wait.3>\n/stp -4.5996165 33.2 -429.3569 1055<wait.3>\n/stp -16.105831 47.661312 -362.66153 1055<wait.3>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              }
+            ]
+          },
+          {
+            "$type": "SomethingNeedDoing.FolderNode, SomethingNeedDoing",
+            "Name": "植物篇",
+            "Children": [
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "树枝",
+                "Contents": "/stp 326.63538 118.876045 -171.48373 1055<wait.4>\n/stp 166.38896 114.27997 -257.03052 1055<wait.4>\n/stp 125.32782 105.23235 -378.70444 1055<wait.4>\n/stp 124.49579 91.95346 -517.6034 1055<wait.4>\n/stp 201.27907 53.90096 -606.3952 1055<wait.4>\n/stp 275.51392 21.031 -678.12317 1055<wait.4>\n/stp 358.36493 69.64262 -645.9394 1055<wait.4>\n/stp 434.6121 90.34458 -612.44684 1055<wait.4>\n/stp 613.8036 73.128174 -473.57864 1055<wait.4>\n/stp 669.20856 51.446 -454.68866 1055<wait.4>\n/stp 719.47614 32.95199 -302.6917 1055<wait.4>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "蘑菇",
+                "Contents": "/stp 433.48486 99.273766 -247.53668 1055<wait.4>\n/stp 433.0873 98.22464 -299.75095 1055<wait.4>\n/stp 479.7132 95.08776 -366.62418 1055<wait.4>\n/stp 482.36496 95.03316 -373.79816 1055<wait.4>\n/stp 459.39783 96.04272 -435.37256 1055<wait.4>\n/stp 452.28638 95.665115 -433.06754 1055<wait.4>\n/stp 405.0152 93.33969 -404.61035 1055<wait.4>\n/stp 412.00656 93.33818 -398.6047 1055<wait.4>\n/stp 435.49847 94.91686 -380.5855 1055<wait.4>\n/stp 434.5093 96.33686 -358.00104 1055<wait.4>\n/stp 389.9883 98.5145 -284.07755 1055<wait.4>\n/stp 332.13184 92.00886 -240.14697 1055<wait.4>\n/stp 290.92996 75.49999 -246.3621 1055<wait.4>\n/stp 293.46555 75.802284 -294.6368 1055<wait.4>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "缤纷",
+                "Contents": "/stp -164.6604 194.55696 -75.556076 1055<wait.4>\n/stp -150.91365 194.21877 -86.43536 1055<wait.4>\n/stp -7.327868 72.16378 302.8302 1055<wait.4>\n/stp 13.680127 68.98497 325.55878 1055<wait.4>\n/stp 174.60516 94.81599 237.95251 1055<wait.4>\n/stp 197.31763 94.0183 259.10052 1055<wait.4>\n/stp 209.52887 95.43001 249.95493 1055<wait.4>\n/stp 200.13976 191.16905 -365.60278 1055<wait.4>\n/stp 193.16309 191.15338 -374.21133 1055<wait.4>\n/stp 199.56949 191.19429 -418.8357 1055<wait.4>\n/stp 198.91107 191.43922 -411.52896 1055<wait.4>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "棕榈",
+                "Contents": "/stp 578.1585 13.235814 -101.6564 1055<wait.4>\n/stp 541.79895 9.441088 -22.865568 1055<wait.4>\n/stp 554.99054 17.27246 104.23269 1055<wait.4>\n/stp 595.2047 12.923308 172.80266 1055<wait.4>\n/stp 480.83493 22.70095 314.29782 1055<wait.4>\n/stp 77.15853 65.73505 70.1405 1055<wait.4>\n/stp 17.209852 67.69256 71.44506 1055<wait.4>\n/stp 7.8996587 71.35928 102.797386 1055<wait.4>\n/stp -26.856575 74.30315 -29.597961 1055<wait.4>\n/stp -21.702724 75.400795 -64.38077 1055<wait.4>\n/stp 687.3503 26.30541 -195.74622 1055<wait.4>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "树液",
+                "Contents": "/stp 53.955883 75.42974 -201.4146 1055<wait.4>\n/stp 57.17328 76.31828 -149.2023 1055<wait.4>\n/stp 27.552618 68.73823 -146.21254 1055<wait.4>\n/stp 54.95843 75.56013 -101.770744 1055<wait.4>\n/stp -47.92856 76.84622 -187.70578 1055<wait.4>\n/stp 127.79713 69.770805 16.897802 1055<wait.4>\n/stp 160.8901 69.59676 28.360628 1055<wait.4>\n/stp 221.60518 71.81784 39.30481 1055<wait.4>\n/stp 231.1726 95.202415 -87.30973 1055<wait.4>\n/stp 404.01456 52.919197 166.28827 1055<wait.4>\n/stp 488.33813 49.999256 191.94885 1055<wait.4>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "刺麻",
+                "Contents": "/stp 510.7 17.400593 293.6 1055 <wait.3>\n/stp 482.21927 49.006416 289.02304 1055 <wait.3>\n/stp 562.51355 26.065306 274.3698 1055 <wait.3>\n/stp 580.86456 10.176566 294.96332 1055 <wait.3>\n/stp 592.031 13.060199 113.17071 1055 <wait.3>\n/stp 538.1731 18.502193 109.61105 1055 <wait.3>\n/stp 532.6326 10.497103 61.430527 1055 <wait.3>\n/stp 519.9148 10.127823 27.285744 1055 <wait.3>\n/stp 519.8557 11.201915 0.78536934 1055 <wait.3>\n/stp 534.1814 9.167795 1.6759187 1055 <wait.3>\n/stp 542.41156 10.288191 -36.389713 1055 <wait.3>\n/stp 571.3278 7.75062 -58.039986 1055 <wait.3>\n/stp 588.9693 8.877836 -94.84697 1055 <wait.3>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "苹果",
+                "Contents": "/stp 200.37648 107.88604 -162.72528 1055<wait.4>\n/stp 123.35307 102.51662 -214.6042 1055<wait.4>\n/stp 112.02321 91.107155 -186.14694 1055<wait.4>\n/stp 81.75247 68.94703 16.516582 1055<wait.4>\n/stp 274.6528 77.046036 16.11126 1055<wait.4>\n/stp 287.6173 65.39674 58.962822 1055<wait.4>\n/stp 116.73385 76.81404 132.4856 1055<wait.4>\n/stp 77.3387 77.38016 126.557 1055<wait.4>\n/stp 4.5320373 76.01609 125.80887 1055<wait.4>\n/stp 403.058 75.76957 -64.017685 1055<wait.4>\n/stp 140.24431 63.32198 53.400177 1055<wait.4>\n/stp 116.48495 66.243744 35.98005 1055<wait.4>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "棉花",
+                "Contents": "/stp 488.18292 56.951546 251.47278 1055<wait.3>\n/stp 485.85895 57.40174 246.93929 1055<wait.3>\n/stp 480.04266 58.8655 250.711 1055<wait.3>\n/stp 475.8945 59.039562 247.25673 1055<wait.3>\n/stp 472.30814 58.961212 242.70586 1055<wait.3>\n/stp 469.96066 59.713207 247.43188 1055<wait.3>\n/stp 463.90878 59.505554 242.28612 1055<wait.3>\n/stp -220.10889 129.92474 -63.22983 1055<wait.3>\n/stp -227.90245 129.25708 -63.69009 1055<wait.3>\n/stp -230.9556 130.43942 -79.14231 1055<wait.3>\n/stp -252.8455 128.99477 -96.74657 1055<wait.3>\n/stp -258.96088 128.82002 -106.3408 1055<wait.3>\n/stp -264.96945 128.29558 -121.264824 1055<wait.3>\n/stp -246.00928 130.19267 -121.4767 1055<wait.3>\n/stp -218.52046 149.54231 -112.893234 1055<wait.3>\n/stp -202.0798 148.6284 -111.02404 1055<wait.3>\n/stp -210.298 150.15642 -88.37009 1055<wait.3>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "甘蔗",
+                "Contents": "/stp 4.4608946 63.12372 -313.97794 1055<wait.3>\n/stp 8.428243 63.260975 -319.47308 1055<wait.3>\n/stp 2.2053432 60.985027 -330.2998 1055<wait.3>\n/stp 6.973516 60.16838 -344.59302 1055<wait.3>\n/stp 13.653986 61.78527 -338.84885 1055<wait.3>\n/stp 25.441933 61.31494 -359.20193 1055<wait.3>\n/stp 24.183405 60.003693 -364.11057 1055<wait.3>\n/stp -35.94638 64.7391 -317.3583 1055<wait.3>\n/stp -30.38754 63.281895 -319.95993 1055<wait.3>\n/stp -35.65459 63.799763 -330.85693 1055<wait.3>\n/stp -30.43655 61.255646 -337.92935 1055<wait.3>\n/loop",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "CraftSkip": true,
+  "SmartWait": false,
+  "QualitySkip": true,
+  "LoopTotal": false,
+  "LoopEcho": false,
+  "DisableMonospaced": false,
+  "UseCraftLoopTemplate": false,
+  "CraftLoopTemplate": "/craft {{count}}\n/waitaddon \"RecipeNote\" <maxwait.5>/click \"synthesize\"/waitaddon \"Synthesis\" <maxwait.5>{{macro}}/loop",
+  "CraftLoopFromRecipeNote": true,
+  "CraftLoopMaxWait": 5,
+  "CraftLoopEcho": false,
+  "MaxTimeoutRetries": 0,
+  "NoisyErrors": false,
+  "BeepFrequency": 900,
+  "BeepDuration": 250,
+  "BeepCount": 3,
+  "ChatType": 1,
+  "ErrorChatType": 2
+}
