@@ -1,6 +1,7 @@
 {
   "$type": "SomethingNeedDoing.SomethingNeedDoingConfiguration, SomethingNeedDoing",
   "Version": 1,
+  "LockWindow": false,
   "RootFolder": {
     "$type": "SomethingNeedDoing.FolderNode, SomethingNeedDoing",
     "Name": "总菜单",
@@ -168,6 +169,14 @@
                 "CraftingLoop": false,
                 "CraftLoopCount": 0,
                 "IsLua": false
+              },
+              {
+                "$type": "SomethingNeedDoing.MacroNode, SomethingNeedDoing",
+                "Name": "水晶洞",
+                "Contents": "/stp 250.83035 52.988083 -142.46399 1055<wait.4> \n/stp 244.66354 53.5242 -130.84032 1055<wait.4> \n/stp 256.41718 52.989403 -113.61579 1055<wait.4> \n/stp 266.09335 52.96827 -129.28294 1055<wait.4> \n/stp 270.31708 52.976456 -121.61855 1055<wait.4> \n/stp 279.4529 52.992588 -125.88935 1055<wait.4> \n/stp 284.16095 52.995384 -137.62532 1055<wait.4> \n/stp 293.74023 53.0 -122.83783 1055<wait.4> \n/stp 298.09656 53.000004 -136.18129 1055<wait.4> \n/stp 307.2433 53.03265 -141.25648 1055<wait.4> \n/stp 314.5505 52.999977 -135.39519 1055<wait.4> \n/loop\n",
+                "CraftingLoop": false,
+                "CraftLoopCount": 0,
+                "IsLua": false
               }
             ]
           },
@@ -269,6 +278,14 @@
   "BeepFrequency": 900,
   "BeepDuration": 250,
   "BeepCount": 3,
+  "UseSNDTargeting": true,
+  "UseItemStructsVersion": true,
+  "StopMacroIfActionTimeout": true,
+  "StopMacroIfItemNotFound": true,
+  "StopMacroIfCantUseItem": true,
+  "StopMacroIfTargetNotFound": true,
+  "StopMacroIfAddonNotFound": true,
+  "StopMacroIfAddonNotVisible": true,
   "ChatType": 1,
   "ErrorChatType": 2
 }
